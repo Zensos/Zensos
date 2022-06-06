@@ -2,6 +2,7 @@
 
 <strong>My name is Zen and I'm 17 Years old , I'm graduating on grade 11
 I interested in web developer and application development
+  Main Project are in Gitlab
 </strong>
 
 <strong>Languages and Tools:</strong>

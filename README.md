@@ -1,6 +1,6 @@
 <h2>>_Hello World🌍</h2>
 
-<strong>My name is Zen and I'm 17 Years old , I'm graduating on grade 11
+<strong>My name is Zen and I'm 17 Years old , I'm graduating on grade 12
 I interested in web developer and application development
   Main Project are in Gitlab
 </strong>

@@ -2,7 +2,7 @@
 
 <strong>My name is Zen and I'm 17 Years old , I'm graduating on grade 12
 I interested in web developer and application development
-  Main Project are in Gitlab
+  Main Project are currently on Gitlab(Private ☺)
 </strong>
 
 <strong>Languages and Tools:</strong>

@@ -1,8 +1,6 @@
 <h2>>_Hello World🌍</h2>
 
-<strong>My name is Zen and I'm 18 Years old , I'm graduating on grade 13
-I interested in web developer and application development
-  Main Project are currently on Gitlab(Private ☺)
+<strong>My name is Zen and ... I don't know what to say :)
 </strong>
 
 <strong>Languages and Tools:</strong>

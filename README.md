@@ -16,4 +16,4 @@
     <td>KMITL <b>(Faculty of IT)</b></tl>
 </table>
 
---- [![](https://visitcount.itsvg.in/api?id=Zensos&icon=2&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Zensos&icon=2&color=9)](https://visitcount.itsvg.in)

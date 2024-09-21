@@ -1,23 +1,16 @@
 <h2>>_Hello World🌍</h2>
 
-<strong>My name is Zen and ... I don't know what to say :)
-</strong>
+###Hi, I'm Tanansorn Sirirath.
 
-<strong>Languages and Tools:</strong>
+###Education
+<table>
+  <tr>
+    <td>High school & Senior high school</td>
+    <td>Hatyai wittayalai</td>
+  </tr>
+  <tr>
+    <td>University</td>
+    <td>KMITL <b>(Faculty of IT)</b></tl>
+</table>
 
-<code><img height="20" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-
-<div align="center">
-<a href="https://discord.com/users/502056862674452481"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/502056862674452481?bg=23283d&borderRadius=8px&hideDiscrim=true"/></a>
-  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=Zensos&show_icons=true&count_private=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&icon_color=4F8CC9" alt="Zensos"/>
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zensos&layout=compact&count_private=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&icon_color=00000000" alt="Zensos" />
-  
-</div>
+<a href="https://app.daily.dev/tanansorn"><img src="https://api.daily.dev/devcards/v2/EC2hIGUKDPSnzgUusE6BP.png?r=1yo&type=wide" width="652" alt="Tanansorn's Dev Card"/></a>

@@ -1,12 +1,12 @@
 <h2>>_Hello World🌍</h2>
 
 ### Hi, I'm Tanansorn Sirirath.
-
+<hr>
 ### Education
 <table>
   <tr>
     <td>High school & Senior high school</td>
-    <td>Hatyai wittayalai</td>
+    <td>Hatyai Wittayalai</td>
   </tr>
   <tr>
     <td>University</td>

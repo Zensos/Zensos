@@ -2,7 +2,8 @@
 
 ### Hi, I'm Tanansorn Sirirath.
 <hr>
-### Education
+
+### 🎓Education
 <table>
   <tr>
     <td>High school & Senior high school</td>

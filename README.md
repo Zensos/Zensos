@@ -1,8 +1,8 @@
 <h2>>_Hello World🌍</h2>
 
-###Hi, I'm Tanansorn Sirirath.
+### Hi, I'm Tanansorn Sirirath.
 
-###Education
+### Education
 <table>
   <tr>
     <td>High school & Senior high school</td>
